@@ -4886,10 +4886,10 @@ react-is@^16.8.1, react-is@^16.8.3, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
-react-native-onesignal@^3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/react-native-onesignal/-/react-native-onesignal-3.3.0.tgz#e7bd9a6b8313fabeaa8010c151e48af37bf32dd7"
-  integrity sha512-+9wQpMco+at7wE5e9u26xtuUUyI5VNho2BI5QTStZ2XIbme8jZ4WvaJgwd4uzMNke/+ACYYVkDB4ONhcoPHreA==
+react-native-onesignal@^3.3.1:
+  version "3.9.4"
+  resolved "https://registry.yarnpkg.com/react-native-onesignal/-/react-native-onesignal-3.9.4.tgz#886ea222471a8242aae5088e680684d1ae2a88c7"
+  integrity sha512-aQLLtqlz3+IUQPGM28VN6uoX/RKRw7JiHV9mun/Xd4P5wY1UtUwiT5RxwVGp2bn2ora8vCSNioaZdVhqupJLGg==
   dependencies:
     invariant "^2.2.2"
 
@@ -5780,9 +5780,9 @@ tmp@^0.0.33:
     os-tmpdir "~1.0.2"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
